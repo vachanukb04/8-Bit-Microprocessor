@@ -80,6 +80,33 @@ LVS and DRC check
 
 ![DRC_8_ALU](alu8bitdrc.PNG)
 
+**CPU Design**
+
+Schematic of CPU
+
+![Schem_CPU](CPUschm.png)
+
+Layout of CPU
+
+![Layout_CPU](CPUlay.png)
+
+LVS and DRC check for CPU
+
+![LVS_CPU](CPUlvs.png)
+
+**Controller**
+
+Schematic of Controller
+
+![Schem_Cntrl](Controlschm.png)
+
+LVS and DRC check for Controller
+
+![LVS_CNTRL](ControlLVS.png)
+
+![DRC_CNTRL](ControlLay.png)
+
+
 
 
 
