@@ -34,7 +34,7 @@ DRC and LVS check for Inverter
 
 ![DRC_Inv](inverterlayoutwithdrc.png)
 
-![LVS_INV](inverter extracted with lvs.png)
+![LVS_INV](inverterextractedwithlvs.png)
 
 **FULL Adder**
 
