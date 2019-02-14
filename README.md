@@ -48,9 +48,9 @@ Layout of Full adder
 
 LVS and DRC check for NAND gate
 
-![LVS_NAND](NAND lvs.png)
+![LVS_NAND](NANDlvs.png)
 
-![DRC_NAND](NAND DRC.png)
+![DRC_NAND](NANDDRC.png)
 
 **1-Bit ALU**
 
