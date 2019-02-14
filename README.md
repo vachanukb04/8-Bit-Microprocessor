@@ -32,7 +32,7 @@ Schematic of Inverter
 
 DRC and LVS check for Inverter
 
-![DRC_Inv](inverter layout with drc.png)
+![DRC_Inv](inverterlayoutwithdrc.png)
 
 ![LVS_INV](inverter extracted with lvs.png)
 
