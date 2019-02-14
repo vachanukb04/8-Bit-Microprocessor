@@ -106,7 +106,11 @@ LVS and DRC check for Controller
 
 ![DRC_CNTRL](ControlLay.png)
 
+PAD Frame
 
+The PAD frame of 900X900 was provided. The design was placed inside this frame and connections were made using metals 2 and 3. The empty spaces were then filled with poly. A GDS2 file was generated and sent for fabrication.
+
+![PAD_Frame](PADframe.png)
 
 
 
