@@ -24,3 +24,7 @@ Before designing the 8-Bit Microprocessor, several components were designed. The
 
 7) Controller
 
+**INVERTER**
+
+Schematic of Inverter
+
